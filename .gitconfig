@@ -1,0 +1,7 @@
+[user]
+	name = Wolfgang Weintritt
+	email = wolfgang.weintritt@gmail.com
+[core]
+	editor = vim
+[rerere]
+	enabled = 1
